@@ -41,12 +41,6 @@ desktop.ini
 *.swp
 
 # ======================
-# Database
-# ======================
-*.sqlite3
-*.db
-
-# ======================
 # Alembic
 # ======================
 alembic/versions/__pycache__/
