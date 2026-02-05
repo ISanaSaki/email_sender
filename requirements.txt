@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+
+sqlalchemy
+psycopg[binary]
+
+alembic
+
+pydantic
+pydantic-settings
+
+redis
+celery
+
+python-dotenv
+
+python[email]

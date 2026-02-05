@@ -1,0 +1,66 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# ======================
+# Virtual Environment
+# ======================
+.venv/
+venv/
+ENV/
+env/
+
+# ======================
+# Environment variables
+# ======================
+.env
+.env.*
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================
+# IDEs / Editors
+# ======================
+.vscode/
+.idea/
+*.swp
+
+# ======================
+# Alembic
+# ======================
+alembic/versions/__pycache__/
+alembic/versions/*.pyc
+
+# ======================
+# Celery
+# ======================
+celerybeat-schedule
+celerybeat.pid
+
+# ======================
+# Tests / Coverage
+# ======================
+.coverage
+htmlcov/
+
+# ======================
+# Build
+# ======================
+build/
+dist/
+*.egg-info/
